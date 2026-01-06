@@ -1,0 +1,250 @@
+Player,Position,Age,Prev_Team,Prev_AAV,Market_Value,Arm,Type,AAV_cost
+Alex Bregman,3B,31.6,BOS,"$40,000,000 ","$28,035,797 ",R,UFA,40000000.0
+Pete Alonso,1B,30.9,NYM,"$27,000,000 ","$28,294,138 ",R,UFA,27000000.0
+Cody Bellinger,CF,30.3,NYY,"$26,666,667 ","$30,449,698 ",L,UFA,26666667.0
+Jordan Montgomery,SP,32.8,MIL,"$25,000,000 ","$2,648,427 ",L,UFA,25000000.0
+J.T. Realmuto,C,34.7,PHI,"$23,100,000 ","$12,932,124 ",R,UFA,23100000.0
+Nick Martinez,SP,35.2,CIN,"$21,050,000 ","$14,274,000 ",R,UFA,21050000.0
+Chris Bassitt,SP,36.8,TOR,"$21,000,000 ","$15,554,188 ",R,UFA,21000000.0
+Edwin Diaz QO,RP,31.7,NYM,"$20,400,000 ","$18,338,155 ",R,UFA,20400000.0
+Kyle Schwarber QO,LF,32.7,PHI,"$19,750,000 ","$24,902,992 ",L,UFA,19750000.0
+Starling Marte,RF,37.1,NYM,"$19,500,000 ","$7,783,563 ",R,UFA,19500000.0
+Lucas Giolito,SP,31.3,BOS,"$19,250,000 ","$20,445,007 ",R,UFA,19250000.0
+Framber Valdez QO,SP,32.0,HOU,"$18,800,000 ","$33,318,377 ",L,UFA,18800000.0
+Miles Mikolas,SP,37.2,STL,"$18,583,333 ","$6,382,728 ",R,UFA,18583333.0
+Michael Conforto,LF,32.7,LAD,"$17,000,000 ","$6,676,686 ",L,UFA,17000000.0
+Rhys Hoskins,1B,32.7,MIL,"$17,000,000 ","$7,009,366 ",R,UFA,17000000.0
+Kyle Tucker QO,RF,28.8,CHC,"$16,700,000 ","$40,179,471 ",L,UFA,16700000.0
+Marcell Ozuna,DH,35.0,ATL,"$16,250,000 ","$13,708,008 ",R,UFA,16250000.0
+Frankie Montas,SP,32.7,NYM,"$16,000,000 ","$6,476,812 ",R,UFA,16000000.0
+David Robertson,RP,40.6,PHI,"$15,942,857 ","$6,252,558 ",R,UFA,15942857.0
+Max Scherzer,SP,41.2,TOR,"$15,500,000 ","$8,972,300 ",R,UFA,15500000.0
+Justin Verlander,SP,42.8,SF,"$15,000,000 ","$7,848,606 ",R,UFA,15000000.0
+Gleyber Torres QO,2B,28.9,DET,"$15,000,000 ","$13,971,496 ",R,UFA,15000000.0
+Alex Cobb,SP,38.1,DET,"$15,000,000 ",,R,UFA,15000000.0
+Ha-seong Kim,SS,30.1,ATL,"$14,500,000 ",,R,UFA,14500000.0
+Yoan Moncada,3B,30.4,LAA,"$14,000,000 ","$4,493,376 ",S,UFA,14000000.0
+Jon Gray,SP,34.0,TEX,"$14,000,000 ","$5,347,707 ",R,UFA,14000000.0
+Luis Arraez,2B,28.6,SD,"$14,000,000 ","$14,110,202 ",L,UFA,14000000.0
+Zac Gallen QO,SP,30.2,ARI,"$13,800,000 ","$18,712,876 ",R,UFA,13800000.0
+Dylan Cease QO,SP,29.8,SD,"$13,750,000 ","$26,424,157 ",R,UFA,13750000.0
+Zach Eflin,SP,31.6,BAL,"$13,333,333 ","$16,271,986 ",R,UFA,13333333.0
+Shota Imanaga QO,SP,32.2,CHC,"$13,250,000 ","$18,332,391 ",L,UFA,13250000.0
+Tomoyuki Sugano,SP,36.1,BAL,"$13,000,000 ","$6,166,070 ",R,UFA,13000000.0
+Kirby Yates,RP,38.7,LAD,"$13,000,000 ","$1,139,750 ",R,UFA,13000000.0
+Tyler Anderson,SP,35.8,LAA,"$13,000,000 ","$6,970,150 ",L,UFA,13000000.0
+Paul Goldschmidt,1B,38.2,NYY,"$12,500,000 ","$7,175,951 ",R,UFA,12500000.0
+Mitch Garver,C,34.8,SEA,"$12,000,000 ","$3,560,380 ",R,UFA,12000000.0
+Rafael Montero,RP,35.1,DET,"$11,500,000 ","$1,106,950 ",R,UFA,11500000.0
+Ranger Suarez QO,SP,30.2,PHI,"$11,300,000 ","$26,926,949 ",L,UFA,11300000.0
+Bo Bichette QO,SS,27.7,TOR,"$11,200,000 ","$23,303,341 ",R,UFA,11200000.0
+Tyler Mahle,SP,31.1,TEX,"$11,000,000 ","$5,536,465 ",R,UFA,11000000.0
+Taylor Rogers,RP,34.9,CHC,"$11,000,000 ","$3,490,051 ",L,UFA,11000000.0
+Steven Matz,SP,34.4,BOS,"$11,000,000 ","$3,517,425 ",L,UFA,11000000.0
+Nathaniel Lowe,1B,30.3,BOS,"$10,700,000 ",,,,10700000.0
+Michael King QO,SP,30.5,SD,"$10,700,000 ","$22,976,568 ",R,UFA,10700000.0
+Patrick Corbin,SP,36.3,TEX,"$10,000,000 ","$5,493,976 ",L,UFA,10000000.0
+Kenley Jansen,RP,38.1,LAA,"$10,000,000 ","$13,664,297 ",R,UFA,10000000.0
+Jose Leclerc,RP,31.9,ATH,"$10,000,000 ","$1,153,749 ",R,UFA,10000000.0
+Max Kepler,RF,32.8,PHI,"$10,000,000 ","$7,593,600 ",L,UFA,10000000.0
+Christian Vazquez,C,35.2,MIN,"$10,000,000 ","$1,053,242 ",R,UFA,10000000.0
+Germán Márquez,SP,30.8,COL,"$10,000,000 ","$3,171,379 ",R,UFA,10000000.0
+Aaron Civale,SP,30.4,CHC,"$9,700,000 ","$14,924,125 ",R,UFA,9700000.0
+Eugenio Suarez,3B,34.3,SEA,"$9,428,571 ","$14,959,700 ",R,UFA,9428571.0
+Mike Yastrzemski,CF,35.2,KC,"$9,250,000 ","$11,308,059 ",L,UFA,9250000.0
+Robert Suarez,RP,34.7,SD,"$9,200,000 ","$16,831,195 ",R,UFA,9200000.0
+Michael Soroka,RP,28.2,CHC,"$9,000,000 ","$3,601,465 ",R,UFA,9000000.0
+Merrill Kelly,SP,37.1,TEX,"$9,000,000 ","$15,788,150 ",R,UFA,9000000.0
+Luis Rengifo,SS,28.7,LAA,"$8,975,000 ","$10,344,481 ",S,UFA,8975000.0
+Brandon Woodruff QO,SP,32.8,MIL,"$8,750,000 ","$17,078,091 ",R,UFA,8750000.0
+Cedric Mullins,CF,31.1,NYM,"$8,725,000 ","$6,732,960 ",L,UFA,8725000.0
+Wade Miley,SP,39.0,CIN,"$8,500,000 ","$2,403,450 ",L,UFA,8500000.0
+Jordan Romano,RP,32.6,PHI,"$8,500,000 ","$2,777,667 ",R,UFA,8500000.0
+Danny Jansen,C,30.6,MIL,"$8,500,000 ","$7,179,128 ",R,UFA,8500000.0
+Nestor Cortes,SP,30.9,SD,"$8,300,000 ","$12,029,398 ",L,UFA,8300000.0
+Ryan Helsley,RP,31.3,NYM,"$8,200,000 ","$13,643,260 ",R,UFA,8200000.0
+Emilio Pagan,RP,34.5,CIN,"$8,000,000 ","$12,342,310 ",R,UFA,8000000.0
+Lane Thomas,RF,30.2,CLE,"$7,850,000 ","$2,477,518 ",R,UFA,7850000.0
+Tommy Kahnle,RP,36.2,DET,"$7,750,000 ","$4,883,153 ",R,UFA,7750000.0
+Jesse Winker,LF,32.2,NYM,"$7,500,000 ","$5,476,041 ",L,UFA,7500000.0
+Isiah Kiner-Falefa,2B,30.7,TOR,"$7,500,000 ","$5,310,705 ",R,UFA,7500000.0
+Devin Williams,RP,31.2,NYY,"$7,250,000 ","$5,748,828 ",R,UFA,7250000.0
+Pierce Johnson,RP,34.5,ATL,"$7,125,000 ","$8,294,729 ",R,UFA,7125000.0
+Jake Junis,RP,33.2,CLE,"$7,000,000 ","$3,873,859 ",R,UFA,7000000.0
+Paul Sewald,RP,35.4,DET,"$7,000,000 ","$4,351,713 ",R,UFA,7000000.0
+Michael Lorenzen,SP,33.8,KC,"$7,000,000 ","$14,795,066 ",R,UFA,7000000.0
+Adolis García,RF,32.7,TEX,"$7,000,000 ",,,,7000000.0
+Willi Castro,SS,28.6,CHC,"$6,800,000 ","$10,911,590 ",S,UFA,6800000.0
+Harrison Bader,CF,31.4,PHI,"$6,250,000 ","$10,043,882 ",R,UFA,6250000.0
+Evan Phillips,RP,31.2,LAD,"$6,100,000 ",,,,6100000.0
+Paul Blackburn,RP,31.9,NYY,"$6,000,000 ",,R,UFA,6000000.0
+Kyle Finnegan,RP,34.2,DET,"$6,000,000 ","$9,972,847 ",R,UFA,6000000.0
+Justin Turner,DH,41.0,CHC,"$6,000,000 ","$3,579,315 ",R,UFA,6000000.0
+Josh Bell,DH,33.2,WSH,"$6,000,000 ","$11,241,956 ",S,UFA,6000000.0
+Victor Caratini,C,32.2,HOU,"$6,000,000 ","$2,272,583 ",S,UFA,6000000.0
+Zack Littell,SP,30.1,CIN,"$6,000,000 ","$12,884,683 ",R,UFA,6000000.0
+Gregory Soto,RP,30.8,NYM,"$5,820,000 ","$7,045,581 ",L,UFA,5820000.0
+Luke Jackson,RP,34.2,SEA,"$5,750,000 ",,R,UFA,5750000.0
+Tyler Rogers,RP,34.9,NYM,"$5,700,000 ","$11,349,396 ",R,UFA,5700000.0
+Chris Martin,RP,39.4,TEX,"$5,500,000 ","$6,773,963 ",R,UFA,5500000.0
+Wilmer Flores,1B,34.2,SF,"$5,500,000 ","$2,027,455 ",R,UFA,5500000.0
+Miguel Rojas,SS,36.8,LAD,"$5,500,000 ","$3,565,231 ",R,UFA,5500000.0
+Jonah Heim,C,30.3,TEX,"$5,210,000 ",,,,5210000.0
+Austin Gomber,SP,32.0,CHC,"$5,200,000 ","$2,703,261 ",L,UFA,5200000.0
+David Fletcher,2B,31.4,ATL,"$5,200,000 ",,R,UFA,5200000.0
+Michael Kopech,SP,29.5,LAD,"$5,200,000 ",,R,UFA,5200000.0
+Jorge Polanco,2B,32.3,SEA,"$5,150,000 ","$14,587,460 ",S,UFA,5150000.0
+Jason Heyward,RF,36.2,,"$5,000,000 ",,L,UFA,5000000.0
+Randal Grichuk,RF,34.2,KC,"$5,000,000 ","$4,075,227 ",R,UFA,5000000.0
+Austin Hays,LF,30.3,CIN,"$5,000,000 ","$5,130,768 ",R,UFA,5000000.0
+Martín Pérez,SP,34.6,CHW,"$5,000,000 ","$5,878,182 ",L,UFA,5000000.0
+Andrew McCutchen,DH,39.1,PIT,"$5,000,000 ","$5,279,700 ",R,UFA,5000000.0
+Jonathan Loaisiga,RP,31.0,NYY,"$5,000,000 ","$4,559,902 ",R,UFA,5000000.0
+Liam Hendriks,RP,36.8,BOS,"$5,000,000 ",,R,UFA,5000000.0
+Trent Grisham QO,CF,29.0,NYY,"$5,000,000 ","$12,052,666 ",L,UFA,5000000.0
+Andrew Chafin,RP,35.4,LAA,"$4,750,000 ","$4,186,023 ",L,UFA,4750000.0
+Ryne Stanek,RP,34.2,NYM,"$4,500,000 ","$3,926,271 ",R,UFA,4500000.0
+Adam Frazier,2B,33.9,KC,"$4,500,000 ","$4,053,887 ",L,UFA,4500000.0
+Ryan Brasier,RP,38.2,CHC,"$4,500,000 ","$1,449,100 ",R,UFA,4500000.0
+Ramon Urias,3B,31.4,HOU,"$4,410,000 ",,,,4410000.0
+Griffin Canning,SP,29.5,NYM,"$4,250,000 ","$4,684,684 ",R,UFA,4250000.0
+Chris Paddack,RP,29.8,DET,"$4,175,000 ","$10,496,237 ",R,UFA,4175000.0
+Tom Murphy,C,34.6,SF,"$4,125,000 ",,R,UFA,4125000.0
+Tommy Pham,RF,37.7,PIT,"$4,025,000 ","$6,728,516 ",R,UFA,4025000.0
+Jose Quintana,SP,36.8,MIL,"$4,000,000 ","$3,375,000 ",L,UFA,4000000.0
+Thairo Estrada,2B,29.8,COL,"$4,000,000 ","$3,605,511 ",R,UFA,4000000.0
+Pete Fairbanks,RP,31.9,TB,"$4,000,000 ","$13,777,684 ",R,UFA,4000000.0
+Hunter Harvey,RP,30.9,KC,"$3,700,000 ","$5,521,700 ",R,UFA,3700000.0
+Seranthony Dominguez,RP,31.0,TOR,"$3,625,000 ","$10,735,684 ",R,UFA,3625000.0
+Jorge Mateo,SS,30.4,BAL,"$3,550,000 ","$3,083,418 ",R,UFA,3550000.0
+Elias Diaz,C,35.0,SD,"$3,500,000 ","$2,428,009 ",R,UFA,3500000.0
+Ryan O'Hearn,DH,32.2,SD,"$3,500,000 ","$11,461,450 ",L,UFA,3500000.0
+Kyle Farmer,SS,35.2,COL,"$3,250,000 ","$3,030,013 ",R,UFA,3250000.0
+Jason Foley,RP,30.0,DET,"$3,150,000 ",,,,3150000.0
+Scott McGough,RP,36.0,ATH,"$3,125,000 ",,R,UFA,3125000.0
+Jose Iglesias,3B,35.8,SD,"$3,000,000 ","$1,405,511 ",R,UFA,3000000.0
+Caleb Ferguson,RP,29.3,SEA,"$3,000,000 ","$3,415,954 ",L,UFA,3000000.0
+Gary Sánchez,DH,32.9,BAL,"$3,000,000 ","$4,307,630 ",R,UFA,3000000.0
+Derek Law,RP,35.2,WSH,"$3,000,000 ",,R,UFA,3000000.0
+Brent Suter,RP,36.2,CIN,"$3,000,000 ","$4,416,313 ",L,UFA,3000000.0
+Miguel Andujar,3B,30.7,CIN,"$3,000,000 ","$6,100,875 ",R,UFA,3000000.0
+Caleb Thielbar,RP,38.8,CHC,"$2,750,000 ","$5,410,297 ",L,UFA,2750000.0
+MJ Melendez,LF,26.9,KC,"$2,650,000 ",,,,2650000.0
+Scott Barlow,RP,32.9,CIN,"$2,500,000 ","$2,626,781 ",R,UFA,2500000.0
+Hoby Milner,RP,34.8,TEX,"$2,500,000 ","$4,054,698 ",L,UFA,2500000.0
+Mark Leiter Jr.,RP,34.7,NYY,"$2,400,000 ",,,,2400000.0
+Danny Coulombe,RP,36.0,TEX,"$2,300,000 ","$4,305,846 ",L,UFA,2300000.0
+Alek Manoah,SP,27.8,ATL,"$2,300,000 ",,,,2300000.0
+Justin Wilson,RP,38.2,BOS,"$2,250,000 ","$1,465,475 ",L,UFA,2250000.0
+Dustin May,SP,28.2,BOS,"$2,135,000 ","$3,853,335 ",R,UFA,2135000.0
+Tyler Kinley,RP,34.8,ATL,"$2,083,333 ","$2,816,957 ",R,UFA,2083333.0
+Brendan Rodgers,2B,29.2,HOU,"$2,000,000 ","$2,729,063 ",R,UFA,2000000.0
+Amed Rosario,SS,30.0,NYY,"$2,000,000 ","$3,124,210 ",R,UFA,2000000.0
+Luke Weaver,RP,32.2,NYY,"$2,000,000 ","$9,927,131 ",R,UFA,2000000.0
+Trent Thornton,RP,32.1,SEA,"$2,000,000 ",,,,2000000.0
+Rob Refsnyder,RF,34.6,BOS,"$2,000,000 ","$4,250,071 ",R,UFA,2000000.0
+Mike Tauchman,RF,34.9,CHW,"$1,950,000 ",,,,1950000.0
+Randy Dobnak,SP,30.8,DET,"$1,850,000 ",,R,UFA,1850000.0
+Andy Ibanez,2B,32.6,DET,"$1,825,000 ",,,,1825000.0
+Austin Slater,LF,32.9,NYY,"$1,750,000 ","$2,625,129 ",R,UFA,1750000.0
+John King,RP,31.2,STL,"$1,605,000 ",,,,1605000.0
+Reese McGuire,C,30.7,CHC,"$1,500,000 ",,,,1500000.0
+Drew Pomeranz,RP,37.0,CHC,"$1,500,000 ","$2,199,859 ",L,UFA,1500000.0
+Brad Keller,SP,30.2,CHC,"$1,500,000 ","$1,756,433 ",R,UFA,1500000.0
+Mike Clevinger,RP,34.9,CHW,"$1,500,000 ",,R,UFA,1500000.0
+Miguel Castro,RP,30.9,CHW,"$1,500,000 ",,R,UFA,1500000.0
+Colin Holderman,RP,30.1,PIT,"$1,500,000 ",,,,1500000.0
+Tayler Saucedo,RP,32.4,SEA,"$1,500,000 ",,,,1500000.0
+Josh Sborz,RP,31.9,TEX,"$1,400,000 ",,,,1400000.0
+Sam Hentges,RP,29.3,CLE,"$1,377,500 ",,,,1377500.0
+Adrian Houser,SP,32.8,TB,"$1,375,000 ","$10,294,613 ",R,UFA,1375000.0
+Nick Madrigal,2B,28.7,NYM,"$1,350,000 ",,R,UFA,1350000.0
+Jalen Beeks,RP,32.3,ARI,"$1,250,000 ","$1,052,945 ",L,UFA,1250000.0
+Shawn Armstrong,RP,35.2,TEX,"$1,250,000 ","$3,953,000 ",R,UFA,1250000.0
+Jacob Webb,RP,32.2,TEX,"$1,250,000 ",,,,1250000.0
+Taylor Clarke,RP,32.5,KC,"$1,000,000 ",,,,1000000.0
+Ildemaro Vargas,2B,34.3,ARI,"$1,000,000 ",,S,UFA,1000000.0
+Sean Newcomb,RP,32.4,ATH,"$1,000,000 ","$1,698,178 ",L,UFA,1000000.0
+Shelby Miller,RP,35.1,MIL,"$1,000,000 ","$1,202,784 ",R,UFA,1000000.0
+José Urquidy,SP,30.5,DET,"$1,000,000 ",,R,UFA,1000000.0
+John Means,SP,32.6,CLE,"$1,000,000 ",,L,UFA,1000000.0
+Paul DeJong,3B,32.2,WSH,"$1,000,000 ","$789,771 ",R,UFA,1000000.0
+Drew Smith,RP,32.2,NYM,"$1,000,000 ",,R,UFA,1000000.0
+Ty France,1B,31.3,TOR,"$1,000,000 ","$1,666,178 ",R,UFA,1000000.0
+Tim Mayza,RP,33.8,PIT,"$976,876 ","$781,992 ",L,UFA,976876.0
+Dylan Carlson,CF,27.1,BAL,"$975,000 ",,S,UFA,975000.0
+Eli Morgan,RP,29.5,CHC,"$950,000 ",,,,950000.0
+Dominic Smith,1B,30.4,SF,"$943,548 ",,L,UFA,943548.0
+Ian Hamilton,RP,30.4,NYY,"$941,050 ",,,,941050.0
+Tyler Wade,SS,31.0,SD,"$900,000 ",,L,UFA,900000.0
+Scott Effross,RP,31.8,NYY,"$900,000 ",,,,900000.0
+Joey Lucchesi,RP,32.4,SF,"$854,839 ",,,,854839.0
+Tanner Rainey,RP,32.9,DET,"$850,000 ",,,,850000.0
+Trevor Richards,RP,32.5,ARI,"$850,000 ","$828,851 ",R,UFA,850000.0
+Jorge Alcala,RP,30.2,STL,"$845,000 ",,,,845000.0
+Jake Cousins,RP,31.3,NYY,"$841,050 ",,,,841050.0
+Danny Young,RP,31.4,NYM,"$825,000 ",,,,825000.0
+Albert Suarez,RP,36.1,BAL,"$825,000 ",,,,825000.0
+Dauri Moreta,RP,29.6,PIT,"$785,000 ",,,,785000.0
+Christopher Morel,LF,26.4,TB,"$771,800 ",,,,771800.0
+Gregory Santos,RP,26.2,SEA,"$771,100 ",,,,771100.0
+Max Kranick,RP,28.3,NYM,"$771,000 ",,,,771000.0
+J.J. Bleday,CF,28.0,ATH,"$770,000 ",,,,770000.0
+Cam Booser,RP,33.5,CHW,"$768,200 ",,,,768200.0
+Michael Toglia,1B,27.2,COL,"$765,000 ",,,,765000.0
+Luis Medina,SP,26.5,ATH,"$765,000 ",,,,765000.0
+Sean Reynolds,RP,27.6,SD,"$763,100 ",,,,763100.0
+Omar Cruz,RP,26.8,SD,"$760,000 ",,,,760000.0
+Ronny Simon,2B,25.6,PIT,"$760,000 ",,,,760000.0
+Daniel Robert,RP,31.2,PHI,"$760,000 ",,,,760000.0
+Michael Mercado,RP,26.6,PHI,"$760,000 ",,,,760000.0
+Sebastian Rivero,C,27.0,LAA,"$760,000 ",,,,760000.0
+Nick Frasso,SP,27.1,LAD,"$760,000 ",,,,760000.0
+Jack Little,RP,27.8,DET,"$760,000 ",,,,760000.0
+Sean Guenther,RP,29.8,DET,"$760,000 ",,,,760000.0
+Dugan Darnell,RP,28.3,DET,"$760,000 ",,,,760000.0
+Nic Enright,RP,28.8,CLE,"$760,000 ",,,,760000.0
+Will Brennan,RF,27.8,CLE,"$760,000 ",,,,760000.0
+Will Banfield,C,26.0,CIN,"$760,000 ",,,,760000.0
+Roddery Munoz,SP,25.6,CIN,"$760,000 ",,,,760000.0
+Tim Elko,1B,26.8,CHW,"$760,000 ",,,,760000.0
+Carson Ragsdale,SP,27.5,ATL,"$760,000 ",,,,760000.0
+Tommy Henry,SP,28.2,ARI,"$760,000 ",,,,760000.0
+Taylor Rashi,RP,29.8,ARI,"$760,000 ",,,,760000.0
+Luis Garcia,RP,38.8,LAA,"$760,000 ",,R,UFA,760000.0
+C.J. Edwards,RP,34.2,TEX,"$760,000 ",,R,RFA,760000.0
+Dylan Moore,2B,33.2,TEX,"$760,000 ","$2,634,773 ",R,UFA,760000.0
+Josh Winckowski,RP,27.3,BOS,"$760,000 ",,,,760000.0
+Carlos Santana,1B,39.6,CHC,"$760,000 ","$6,048,900 ",S,UFA,760000.0
+Erick Fedde,SP,32.8,MIL,"$760,000 ","$9,362,558 ",R,UFA,760000.0
+Tyler Alexander,RP,31.3,CHW,"$760,000 ","$2,106,255 ",L,UFA,760000.0
+Orlando Arcia,SS,31.2,COL,"$760,000 ","$1,650,520 ",R,UFA,760000.0
+Chris Taylor,3B,35.2,LAA,"$760,000 ","$5,411,096 ",R,UFA,760000.0
+Jose Castillo,RP,29.8,NYM,"$760,000 ",,,,760000.0
+Michael Arias,RP,24.0,NYY,"$123,900 ",,,,123900.0
+Tyler Mattison,RP,26.2,DET,"$62,000 ",,,,62000.0
+Sem Robberse,SP,24.1,STL,$0 ,,,,0.0
+Luis Urias,2B,28.4,MIL,,"$3,432,498 ",R,UFA,3432498.0
+Kevin Newman,SS,32.2,DET,,,R,UFA,
+Foster Griffin,RP,30.2,OS,,,L,UFA,
+Baek Ho Kang,1B,26.2,KOR,,,L,UFA,
+Kazuma Okamoto,3B,29.3,JPN,,,R,UFA,
+Munetaka Murakami,3B,25.8,JPN,,,L,UFA,
+Hector Neris,RP,36.4,HOU,,"$1,831,894 ",R,UFA,1831894.0
+Anthony DeSclafani,RP,35.6,ARI,,,R,UFA,
+Scott Alexander,RP,36.3,SF,,,L,UFA,
+Alex Verdugo,LF,29.5,ATL,,,L,UFA,
+Tim Anderson,SS,32.4,LAA,,,,,
+Carlos Carrasco,SP,38.7,ATL,,"$1,054,550 ",R,UFA,1054550.0
+Mark Canha,1B,36.8,KC,,"$1,208,004 ",R,UFA,1208004.0
+Kevin Pillar,CF,36.8,TEX,,,R,UFA,
+Jon Berti,2B,35.8,CHC,,,R,UFA,
+Jorge López,RP,32.8,WSH,,,R,UFA,
+Giovanny Urshela,3B,34.1,ATH,,,R,UFA,
+Garrett Hampson,SS,31.1,,,,R,UFA,
+Marcus Stroman,SP,34.5,NYY,,,R,UFA,
+Hunter Renfroe,RF,33.8,KC,,,R,UFA,
+Chad Green,RP,34.5,TOR,,,R,UFA,
+D.J. LeMahieu,2B,37.3,NYY,,,R,UFA,
+Austin Barnes,C,35.8,LAD,,,R,UFA,
+Ryan Pressly,RP,36.9,CHC,,,R,UFA,
